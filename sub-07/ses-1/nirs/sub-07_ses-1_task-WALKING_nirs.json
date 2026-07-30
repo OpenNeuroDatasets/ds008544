@@ -1,0 +1,18 @@
+{
+    "TaskName": "WALKING",
+    "Manufacturer": "SNIRF",
+    "PowerLineFrequency": "n/a",
+    "SamplingFrequency": 9.487666034155598,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 808.5233999999999,
+    "RecordingType": "continuous",
+    "EEGChannelCount": 0,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 0,
+    "NIRSChannelCount": 628,
+    "NIRSSourceOptodeCount": 47,
+    "NIRSDetectorOptodeCount": 32
+}

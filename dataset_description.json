@@ -1,0 +1,11 @@
+{
+    "Name": " Diffuse Optical Tomography Mobile Dataset Under Cognitive-Motor Dual-Task Interference",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Robert Kwaśniak",
+        "Dariusz Zapała",
+        "Paweł Augustynowicz",
+        "Arkadiusz Ziółkowski"
+    ]
+}
