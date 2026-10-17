@@ -12,5 +12,6 @@
     "License": "CC0",
     "EthicsApprovals": [
         "All of the participants gave written consent which was approved by the Biomedical Commission in accordance with the Helsinki Declaration at the WSEI University (number of a decision 02/08/2024)"
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008544.v1.0.0"
 }
